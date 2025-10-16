@@ -1,59 +1,73 @@
-# 🌐 HckVision
+<p align="center">
+  <img src="https://www.hckvision.com/assets/logo.png" width="150" alt="HckVision Logo">
+</p>
 
-### Empowering Innovation Through Technology & Skills 🚀
+<h1 align="center" style="color:#0F52BA;">HckVision</h1>
 
-**[🌎 Visit Our Website](https://www.hckvision.com)**  
-**[🔗 Connect on LinkedIn](https://www.linkedin.com/company/hckvision)**  
+<p align="center" style="color:#000000;">
+Empowering Innovation Through Technology & Skills 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.hckvision.com"><img src="https://img.shields.io/badge/Website-HckVision-%230F52BA?style=for-the-badge&logo=googles-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/hckvision"><img src="https://img.shields.io/badge/LinkedIn-HckVision-%230F52BA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🧠 About Us
-**HckVision** is a technology-driven education and innovation platform that empowers students and professionals with real-world skills.  
-We offer industry-aligned **bootcamps, internships, and hands-on training** in cutting-edge domains to help learners stay ahead in the evolving tech landscape.
+
+**HckVision** is a technology-driven education and innovation platform that bridges the gap between academia and industry.  
+We deliver **hands-on bootcamps, internships, and skill-based courses** in cutting-edge technologies, empowering learners to build the skills required for tomorrow’s tech landscape.  
 
 ---
 
-## 💻 Tech Stacks & Domains We Cover
+## 💻 Tech Stacks & Domains
 
 ### 🧩 Full Stack Development
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-61DBFB?style=for-the-badge&logo=react&logoColor=white)
-![MEAN](https://img.shields.io/badge/MEAN-%23007396.svg?style=for-the-badge&logo=angular&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python" alt="Python" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="MERN" alt="MERN" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="MEAN" alt="MEAN" style="border-radius:12px;"/>
+</p>
 
 ### 🔗 Blockchain & Cloud Solutions
-![Blockchain](https://img.shields.io/badge/Blockchain-%23000000.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Solutions-%23007ACC.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/blockchain.png" title="Blockchain" alt="Blockchain" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" alt="AWS" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" title="Cloud Solutions" alt="Cloud" style="border-radius:12px;"/>
+</p>
 
 ### 🤖 AI, ML & Robotics
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-%2300BFFF.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-%23000000.svg?style=for-the-badge&logo=arduino&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="AI" alt="AI" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="Machine Learning" alt="Machine Learning" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/robot-2.png" title="Robotics" alt="Robotics" style="border-radius:12px;"/>
+</p>
 
 ### 🌐 IoT & App Development
-![IoT](https://img.shields.io/badge/IoT-%231572B6.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![App Dev](https://img.shields.io/badge/App%20Development-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/internet-of-things.png" title="IoT" alt="IoT" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" title="App Development" alt="App Development" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" alt="React Native" style="border-radius:12px;"/>
+</p>
 
 ---
 
 ## 🌟 Our Vision
-> “At HckVision, we believe learning by doing is the key to building tomorrow’s innovators.”
+
+> "At HckVision, we believe learning by doing is the key to building tomorrow’s innovators."
 
 We aim to make **technical education practical, engaging, and industry-relevant** through real-world projects, AI-driven platforms, and expert mentorship.
 
 ---
 
 ## 📫 Get In Touch
-📧 **Website:** [www.hckvision.com](https://www.hckvision.com)  
-💼 **LinkedIn:** [HckVision](https://www.linkedin.com/company/hckvision)
+
+- 🌐 **Website:** [hckvision.com](https://www.hckvision.com)  
+- 💼 **LinkedIn:** [HckVision](https://www.linkedin.com/company/hckvision)  
 
 ---
 
-### 🏷️ Tags
-`#EdTech` `#AI` `#IoT` `#Blockchain` `#CloudComputing` `#FullStackDevelopment` `#MachineLearning` `#Internships` `#HckVision`
-
----
-
-> Made with ❤️ by **Team HckVision**
+<p align="center" style="color:#0F52BA;">Made with ❤️ by Team HckVision</p>
