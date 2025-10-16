@@ -2,9 +2,9 @@
   <img src="logo.png" width="150" alt="HckVision Logo">
   <br>
   <h1 align="center" style="color:#0F52BA;">HckVision</h1>
+  <br>
+  <h3 align="center" style="color:#0F52BA;">code | create | conquer</h3>
 </p>
-
-
 
 <p align="center" style="color:#000000;">
 Empowering Innovation Through Technology & Skills 🚀
