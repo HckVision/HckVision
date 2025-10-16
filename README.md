@@ -66,7 +66,8 @@ We aim to make **technical education practical, engaging, and industry-relevant*
 ## 📫 Get In Touch
 
 - 🌐 **Website:** [hckvision.com](https://www.hckvision.com)  
-- 💼 **LinkedIn:** [HckVision](https://www.linkedin.com/company/hckvision)  
+- 💼 **LinkedIn:** [HckVision](https://www.linkedin.com/company/hckvision)
+- 📧 **Email:** [contact@hckvision.com](mailto:contact@hckvision.com)
 
 ---
 
