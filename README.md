@@ -50,7 +50,7 @@ We deliver **hands-on bootcamps, internships, and skill-based courses** in cutti
 
 ### 🌐 IoT & App Development
 <p>
-  <img src="https://img.icons8.com/color/48/000000/internet-of-things.png" title="IoT" alt="IoT" style="border-radius:12px;"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/internet-of-things.png" title="IoT" alt="IoT" style="border-radius:12px;"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" title="App Development" alt="App Development" style="border-radius:12px;"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" alt="React Native" style="border-radius:12px;"/>
 </p>
