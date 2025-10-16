@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.hckvision.com/assets/logo.png" width="150" alt="HckVision Logo">
+  <img src="logo.png" width="150" alt="HckVision Logo">
 </p>
 
 <h1 align="center" style="color:#0F52BA;">HckVision</h1>
